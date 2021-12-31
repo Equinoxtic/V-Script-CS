@@ -1,0 +1,7 @@
+C:\Users\JoyKath\source\repos\V-Script-CS\V-Script-CS\bin\Debug\V-Script-CS.exe.config
+C:\Users\JoyKath\source\repos\V-Script-CS\V-Script-CS\bin\Debug\V-Script-CS.exe
+C:\Users\JoyKath\source\repos\V-Script-CS\V-Script-CS\bin\Debug\V-Script-CS.pdb
+C:\Users\JoyKath\source\repos\V-Script-CS\V-Script-CS\obj\Debug\V-Script-CS.csproj.AssemblyReference.cache
+C:\Users\JoyKath\source\repos\V-Script-CS\V-Script-CS\obj\Debug\V-Script-CS.csproj.CoreCompileInputs.cache
+C:\Users\JoyKath\source\repos\V-Script-CS\V-Script-CS\obj\Debug\V-Script-CS.exe
+C:\Users\JoyKath\source\repos\V-Script-CS\V-Script-CS\obj\Debug\V-Script-CS.pdb
