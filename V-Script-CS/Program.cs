@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,8 +10,29 @@ namespace V_Script_CS
     {
         static void Main(string[] args)
         {
-            VLoops CinLoops = new VLoops();
-            CinLoops.VWhile();
+            int actionType;
+            States.CalculateClassState CalculateState = new States.CalculateClassState();
+            States.LoopSelectionState SelectLoopState = new States.LoopSelectionState();
+            States.CreatorClassState CreateState = new States.CreatorClassState();
+            Console.WriteLine("===== V-Script ======\n");
+            Console.WriteLine("Select an action: ");
+            Console.Write("[1] Calculate\n[2] Loops\n[3] Object Creator\n");
+            actionType = Convert.ToInt32(Console.ReadLine());
+
+            switch (actionType)
+            {
+                case 1:
+                    CalculateState.CalcStateSelector();
+                    break;
+
+                case 2:
+                    SelectLoopState.LoopSelector();
+                    break;
+
+                case 3:
+                    CreateState.CreatorSelector();
+                    break;
+            }
         }
     }
 }
