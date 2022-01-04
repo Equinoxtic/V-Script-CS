@@ -1,0 +1,15 @@
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\bin\Debug\net6.0\V-Script-CS-VS-Code.exe
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\bin\Debug\net6.0\V-Script-CS-VS-Code.deps.json
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\bin\Debug\net6.0\V-Script-CS-VS-Code.runtimeconfig.json
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\bin\Debug\net6.0\V-Script-CS-VS-Code.dll
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\bin\Debug\net6.0\ref\V-Script-CS-VS-Code.dll
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\bin\Debug\net6.0\V-Script-CS-VS-Code.pdb
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\obj\Debug\net6.0\V-Script-CS-VS-Code.csproj.AssemblyReference.cache
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\obj\Debug\net6.0\V-Script-CS-VS-Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\obj\Debug\net6.0\V-Script-CS-VS-Code.AssemblyInfoInputs.cache
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\obj\Debug\net6.0\V-Script-CS-VS-Code.AssemblyInfo.cs
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\obj\Debug\net6.0\V-Script-CS-VS-Code.csproj.CoreCompileInputs.cache
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\obj\Debug\net6.0\V-Script-CS-VS-Code.dll
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\obj\Debug\net6.0\ref\V-Script-CS-VS-Code.dll
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\obj\Debug\net6.0\V-Script-CS-VS-Code.pdb
+C:\Users\JoyKath\Desktop\V-Script-CS-VS-Code\obj\Debug\net6.0\V-Script-CS-VS-Code.genruntimeconfig.cache
