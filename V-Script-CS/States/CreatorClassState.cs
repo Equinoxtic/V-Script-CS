@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,13 +13,21 @@ namespace V_Script_CS.States
             var curSelected = "";
             ObjectCreator Create = new ObjectCreator();
             Console.WriteLine("Select an Action: ");
-            Console.Write("[obj] Create an Object\n");
+            Console.Write("[obj] Create an Object | [func] Create a Function | [class] Create a Class\n");
             curSelected = Console.ReadLine();
 
             switch (curSelected)
             {
                 case "obj":
                     Create.Object();
+                    break;
+
+                case "func":
+                    Create.CustomFunction();
+                    break;
+
+                case "class":
+                    Create.CustomClass();
                     break;
             }
         }
