@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,12 +12,12 @@ namespace V_Script_CS.States
         {
             int curSelected;
 
-            Calc Calculator = new Calc();
+            Calculate Calculator = new Calculate();
             Math VMath = new Math();
             States.MathSelectionState MathSelectState = new States.MathSelectionState();
 
             Console.WriteLine("Select a function / class: ");
-            Console.Write("[1] Open Calculator (Function)\n[2] Math (Class)\n");
+            Console.Write("[1] Open Calculator (Function) | [2] Math (Class)\n");
             curSelected = Convert.ToInt32(Console.ReadLine());
 
             switch (curSelected)
