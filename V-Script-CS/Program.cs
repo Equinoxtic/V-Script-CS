@@ -14,10 +14,11 @@ namespace V_Script_CS
             States.CalculateClassState CalculateState = new States.CalculateClassState();
             States.LoopSelectionState SelectLoopState = new States.LoopSelectionState();
             States.CreatorClassState CreateState = new States.CreatorClassState();
+            States.InputOutSelector IOState = new States.InputOutSelector();
 
             Console.WriteLine("===== V-Script ======\n");
             Console.WriteLine("Select an action: ");
-            Console.Write("[1] Calculate | [2] Loops | [3] Object Creator\n");
+            Console.Write("[1] Calculate | [2] Loops | [3] Object Creator | [4] Basic Input\n");
             actionType = Convert.ToInt32(Console.ReadLine());
 
             switch (actionType)
@@ -32,6 +33,10 @@ namespace V_Script_CS
 
                 case 3:
                     CreateState.CreatorSelector();
+                    break;
+
+                case 4:
+                    IOState.IOSelect();
                     break;
             }
         }
