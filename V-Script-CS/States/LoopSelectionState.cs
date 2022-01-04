@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +11,7 @@ namespace V_Script_CS.States
         public void LoopSelector()
         {
             string curSelected;
-            VLoops LocalLoops = new VLoops();
+            Loops LocalLoops = new Loops();
             Console.WriteLine("Select a loop: ");
             Console.Write("[vF] For Loop | [vW] While Loop\n");
             curSelected = Console.ReadLine();
