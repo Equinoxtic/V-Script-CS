@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,7 +14,7 @@ namespace V_Script_CS.States
 
             Utility.InputOut IO = new Utility.InputOut();
             Console.WriteLine("===== Input Selection =====\n");
-            Console.Write("Select an Action:\n[str] Input String | [int] Input Integer | [float] Input Float");
+            Console.Write("Select an Action:\n[str] Input String | [int] Input Integer | [float] Input Float\n");
             curActionType = Console.ReadLine();
 
             switch (curActionType)
